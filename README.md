@@ -5,3 +5,5 @@ Clarifications for this project can be asked to Gabriele Ciravegna: gabriele.cir
 
 AUTHORS:
 
+# References:
+While external references are not strictly necessary for this assignment (except for ART), any utilized resources, such as course materials, should be appropriately cited within the document.
