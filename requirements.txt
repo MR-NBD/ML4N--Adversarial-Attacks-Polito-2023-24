@@ -1,0 +1,10 @@
+adversarial_robustness_toolbox==1.17.1
+imbalanced_learn==0.12.3
+imblearn==0.0
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+plotly==5.21.0
+scikit_learn==1.4.2
+seaborn==0.13.2
+torch==2.3.0
