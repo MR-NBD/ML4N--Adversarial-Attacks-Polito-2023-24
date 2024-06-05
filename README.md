@@ -25,6 +25,6 @@ The german credit data contains financial and banking details of customers. The 
 The aim of the project was to perform exploratory data analysis of german credit data. The goal of the data exploration and preprocessing was to gain knowledge about the features that influence credit repayment.
 
 
-# [MAIN FILE](!Adversarial Attack.ipynb)
+# [MAIN FILE]([Adversarial Attack.ipynb])
 
 
