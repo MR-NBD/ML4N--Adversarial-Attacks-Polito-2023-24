@@ -12,3 +12,6 @@ seaborn==0.13.2
 nbformat>=4.2.0
 xgboost>=2.0.3
 umap
+tensorflow==2.17.0 
+keras==3.3.3 
+keras-tuner==1.4.7 
