@@ -6,6 +6,4 @@ pandas==2.2.2
 plotly==5.21.0
 scikit_learn==1.4.2
 seaborn==0.13.2
-tensorflow==2.17.0 
-keras==3.3.3 
-keras-tuner==1.4.7
+torch
