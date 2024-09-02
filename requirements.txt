@@ -7,3 +7,7 @@ plotly==5.21.0
 scikit_learn==1.4.2
 seaborn==0.13.2
 torch
+nbformat>=4.2.0
+umap-learn
+statsmodels
+xgboost
